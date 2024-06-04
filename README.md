@@ -6,17 +6,10 @@ CRUD em HTML, CSS e JavaScript integrado ao Firebase
 
 Este projeto foi desenvolvido na disciplina de Programação para a Internet. O objetivo é criar um sistema CRUD (Create, Read, Update, Delete) utilizando tecnologias web (HTML, CSS, JavaScript) integradas ao Firebase.
 
-## 🗂 Estrutura do Projeto
+## 📄 Integrantes do grupo
 
-| Diretório/Arquivo          | Descrição                           |
-|----------------------------|-------------------------------------|
-| `css/`                     | Contém os arquivos de estilo CSS    |
-| `images/`                  | Contém as imagens utilizadas        |
-| `js/`                      | Contém os arquivos JavaScript       |
-| `clientes.html`            | Página para gerenciamento de clientes |
-| `home.html`                | Página inicial                      |
-| `index.html`               | Página principal                    |
-| `novo-usuario.html`        | Página para cadastro de novos usuários |
+Kalel Correa
+Sthefany Akemi Siba Martins
 
 ## 💻 Tecnologias Utilizadas
 
@@ -33,7 +26,7 @@ Acesse: https://fatecitu.github.io/crudFirebase/
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/fatecitu/crudFirebase.git
+   https://github.com/MisstressHeart/Loja-de-Musica/
     ```
 
 2. Navegue até o diretório do projeto:
